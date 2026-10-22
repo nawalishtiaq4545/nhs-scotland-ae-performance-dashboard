@@ -1,0 +1,104 @@
+location_code,hospital_name,hb_code,hb_name
+A101H,Arran War Memorial Hospital,S08000015,Ayrshire and Arran
+A210H,University Hospital Ayr,S08000015,Ayrshire and Arran
+A111H,University Hospital Crosshouse,S08000015,Ayrshire and Arran
+A207H,Unknown (A207H),S08000015,Ayrshire and Arran
+B120H,Borders General Hospital,S08000016,Borders
+B105H,Hawick Community  Hospital,S08000016,Borders
+B118H,Hay Lodge Hospital,S08000016,Borders
+B114H,Kelso Hospital,S08000016,Borders
+B103H,The Knoll Hospital,S08000016,Borders
+Y101H,Castle Douglas Community Hospital,S08000017,Dumfries and Galloway
+Y146H,Dumfries & Galloway Royal Infirmary,S08000017,Dumfries and Galloway
+Y144H,Galloway Community Hospital,S08000017,Dumfries and Galloway
+Y106H,Kirkcudbright Cottage Hospital,S08000017,Dumfries and Galloway
+Y109H,Moffat Community Hospital,S08000017,Dumfries and Galloway
+Y110H,Newton Stewart Hospital,S08000017,Dumfries and Galloway
+F708H,Adamson Hospital,S08000029,Fife
+F805H,Queen Margaret Hospital,S08000029,Fife
+F709H,St Andrews Community Hospital,S08000029,Fife
+F704H,Victoria Hospital,S08000029,Fife
+V102H,Falkirk Community Hospital,S08000019,Forth Valley
+V201H,Stirling Community Hospital,S08000019,Forth Valley
+N101H,Aberdeen Royal Infirmary,S08000020,Grampian
+N151H,Aboyne Hospital,S08000020,Grampian
+N337H,Chalmers Hospital,S08000020,Grampian
+N411H,Dr Gray's Hospital,S08000020,Grampian
+N334H,Fraserburgh Hospital,S08000020,Grampian
+N331H,Inverurie Hospital,S08000020,Grampian
+N335H,Jubilee Hospital,S08000020,Grampian
+N494H,Kincardine Community Hospital,S08000020,Grampian
+N434H,Leanchoil Hospital,S08000020,Grampian
+N333H,Peterhead Community Hospital,S08000020,Grampian
+N121H,Royal Aberdeen Children's Hospital,S08000020,Grampian
+N431H,Seafield Hospital,S08000020,Grampian
+N432H,Stephen Cottage Hospital,S08000020,Grampian
+N433H,Turner Memorial Hospital,S08000020,Grampian
+N336H,Turriff Cottage Hospital,S08000020,Grampian
+N332H,Unknown (N332H),S08000020,Grampian
+N451H,Unknown (N451H),S08000020,Grampian
+G107H,Glasgow Royal Infirmary,S08000031,Greater Glasgow and Clyde
+C313H,Inverclyde Royal Hospital,S08000031,Greater Glasgow and Clyde
+G306H,New Victoria Hospital,S08000031,Greater Glasgow and Clyde
+G405H,Queen Elizabeth University Hospital,S08000031,Greater Glasgow and Clyde
+C418H,Royal Alexandra Hospital,S08000031,Greater Glasgow and Clyde
+G513H,Royal Hospital for Children,S08000031,Greater Glasgow and Clyde
+G207H,Stobhill Hospital,S08000031,Greater Glasgow and Clyde
+C206H,Vale of Leven General Hospital,S08000031,Greater Glasgow and Clyde
+G516H,West Glasgow,S08000031,Greater Glasgow and Clyde
+H212H,Belford Hospital,S08000022,Highland
+H103H,Caithness General Hospital,S08000022,Highland
+C122H,Campbeltown Hospital,S08000022,Highland
+H219H,County Community Hospital Invergordon,S08000022,Highland
+C106H,Cowal Community Hospital,S08000022,Highland
+H101H,Dunbar Hospital,S08000022,Highland
+C108H,Islay Hospital,S08000022,Highland
+H106H,Lawson Memorial Hospital,S08000022,Highland
+C121H,Lorn & Islands Hospital,S08000022,Highland
+H208H,Nairn Town and County Hospital,S08000022,Highland
+H215H,Portree Hospital,S08000022,Highland
+H202H,Raigmore Hospital,S08000022,Highland
+H217H,Ross Memorial Hospital,S08000022,Highland
+C103B,Unknown (C103B),S08000022,Highland
+C110H,Unknown (C110H),S08000022,Highland
+C117J,Unknown (C117J),S08000022,Highland
+H210H,Unknown (H210H),S08000022,Highland
+H214H,Unknown (H214H),S08000022,Highland
+H227B,Unknown (H227B),S08000022,Highland
+C113H,Victoria Hospital,S08000022,Highland
+L206H,Kello Hospital,S08000032,Lanarkshire
+L207H,Lady Home Cottage Hospital,S08000032,Lanarkshire
+L302H,University Hospital Hairmyres,S08000032,Lanarkshire
+L106H,University Hospital Monklands ,S08000032,Lanarkshire
+L308H,University Hospital Wishaw ,S08000032,Lanarkshire
+S319H,Royal Hospital for Children and Young People,S08000024,Lothian
+S314H,Royal Infirmary of Edinburgh at Little France,S08000024,Lothian
+S308H,St John's Hospital,S08000024,Lothian
+S116H,Western General Hospital,S08000024,Lothian
+R103H,The Balfour,S08000025,Orkney
+Z102H,Gilbert Bain Hospital,S08000026,Shetland
+T304H,Arbroath Infirmary,S08000030,Tayside
+T209H,Blairgowrie & Rattray Cottage Hospital,S08000030,Tayside
+T101H,Ninewells Hospital,S08000030,Tayside
+T202H,Perth Royal Infirmary,S08000030,Tayside
+T208H,Unknown (T208H),S08000030,Tayside
+T305H,Unknown (T305H),S08000030,Tayside
+T357C,Unknown (T357C),S08000030,Tayside
+T319H,Whitehills Health and Community Care Centre,S08000030,Tayside
+W106H,St Brendans Cot Hospital,S08000028,Western Isles
+W108H,Uist & Barra Hospital,S08000028,Western Isles
+W107H,Western Isles Hospital,S08000028,Western Isles
+A110H,Lady Margaret Hospital,S08000015,Ayrshire and Arran
+S102H,Belhaven Hospital,S08000024,Lothian
+S108H,Edington Cottage Hospital,S08000024,Lothian
+T320H,Pitlochry Community Hospital,S08000030,Tayside
+T316H,Crieff Community Hospital,S08000030,Tayside
+T205H,St Margaret's Hospital,S08000030,Tayside
+T207H,Unknown (T207H),S08000030,Tayside
+H224H,Mid-Argyll Community Hospital and Integrated Care Centre,S08000022,Highland
+A216H,Girvan Community Hospital,S08000015,Ayrshire and Arran
+V217H,Forth Valley Royal Hospital,S08000019,Forth Valley
+H227H,Mull and Iona Community Hospital,S08000022,Highland
+N683C,Unknown (N683C),S08000020,Grampian
+H221B,Unknown (H221B),S08000022,Highland
+H229H,Broadford Hospital,S08000022,Highland
